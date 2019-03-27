@@ -1,0 +1,11 @@
+{
+    "name": "com.nostalgialab.unityscriptlab",
+    "displayName": "Unity Script Lab",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "A personal collection of Unity Scripts free to use in any project.",
+    "keywords": [
+        "unity"
+    ],
+    "category": "Unity"
+}
